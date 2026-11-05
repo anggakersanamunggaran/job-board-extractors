@@ -1,0 +1,21 @@
+{
+  "name": "jobstreet-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node './server.js'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "exceljs": "^4.4.0",
+    "express": "^4.18.2",
+    "puppeteer": "^21.5.2",
+    "xlsx": "^0.18.5",
+    "xlsx-color": "^0.14.30"
+  }
+}
